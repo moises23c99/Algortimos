@@ -63,3 +63,6 @@ diagrama que representa los usuarios
 |01|Juan perez| 2025|
 |01|Juan perez| 2025|
 |01|Juan perez| 2025|
+
+
+## FIN DE CLASE
